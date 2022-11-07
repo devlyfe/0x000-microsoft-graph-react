@@ -1,3 +1,4 @@
+import "./assets/tailwind.css";
 import { createRoot } from "react-dom/client";
 import { PublicClientApplication } from "@azure/msal-browser";
 import { MsalProvider } from "@azure/msal-react";
